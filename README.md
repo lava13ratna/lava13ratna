@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lava13ratna&show_icons=true&theme=merko" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lava13ratna&show_icons=true&include_all_commits=true&theme=merko" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=lava13ratna&theme=merko" />
 </p>
 <p align="center">
