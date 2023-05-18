@@ -11,6 +11,11 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lava13ratna&layout=compact&theme=dark&langs_count=6" />
 <img width="49%" height="100%" src="https://activity-graph.herokuapp.com/graph?username=lava13ratna&theme=xcode" />
 </p>
+<div align="left"> 
+       
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lavanyaratnabala) 
+
+</div>
 
 
 
