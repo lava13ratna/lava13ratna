@@ -4,7 +4,7 @@
 [![hugovk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugovk&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lava13ratna&show_icons=true&theme=merko" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lava13ratna&&count_private=true&show_icons=true&include_all_commits=true&theme=merko" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=lava13ratna&theme=merko" />
 </p>
 <p align="center">
